@@ -1,4 +1,4 @@
 ## Demo
 this is a readme file.
-Adding lien number 2
-Addign another line to the file
+Adding line number 2
+Adding another line to the file
